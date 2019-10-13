@@ -16,7 +16,8 @@
 
 #else
 
-#include "WProgram.h"
+#include "avdweb_AnalogReadFast.h"
+
 
 #endif
 
